@@ -31,9 +31,9 @@ services:
       # 站长账号
       - USERNAME=admin
       # 站长密码
-      - PASSWORD=admin123
+      - PASSWORD=admin
       # 站点名称（可选）
-      - NEXT_PUBLIC_SITE_NAME=MoonTV
+      - NEXT_PUBLIC_SITE_NAME=LunaTV
 
 volumes:
   redis-data:
